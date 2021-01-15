@@ -6,7 +6,7 @@ import ToggleButton from '@material-ui/lab/ToggleButton';
 import ToggleButtonGroup from '@material-ui/lab/ToggleButtonGroup';
 
 
-const apiKey = '78b9d599c4f94f8fa3afb1a5458928d6';
+const apiKey = 'INSERT NEWS API KEY HERE';
 
 class ArticlesList extends Component {
 
