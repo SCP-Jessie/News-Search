@@ -3,6 +3,7 @@ This project uses Springboot, NodeJS, and ReactJS.
 
 Search for the most recent news articles. News Search utilizes the News API to obtain multiple news results based off the keywords you type into the search bar, as well as filtering news results by the following categories: General, Business, Entertainment, Health, Science, Sports, and Technology. 
 Each news card contains important information such as its title, publisher, date of publication, a small blurb, and an option to view the full article on its pubilsher's website.
+
 ![alt text](https://github.com/SCP-Jessie/News-Search/blob/master/Top%20Global%20News%20Screenshot.png?raw=true)
 
 ## Available Scripts
